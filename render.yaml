@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: harusame-sarada-iba.kabuhisa
+    name: miraiseed3.benesse
     env: python
     region: Oregon
     plan: free
